@@ -24,7 +24,7 @@
 
 
  
-<img align="right" alt="Coding" width="400" src="https://dribbble.com/shots/16093268-Desktop-Animation/attachments/7943224?mode=media">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1364029/screenshots/16093268/media/68e82a7fb4904614a9066d6b540c14b2.gif">
 
 # <img align="center" src="https://emojis.slackmojis.com/emojis/images/1584726375/8272/blob-cool.gif?1584726375" width="28" /> About Me:
 - <img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25" /> &nbsp; I’m currently working on **a Nexjs Projects**
